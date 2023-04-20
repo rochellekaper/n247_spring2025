@@ -1,2 +1,2 @@
 # n247data
-data files for UCI N247
+Notebooks for class and problem sets along with data files for UCI N247

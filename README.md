@@ -7,11 +7,12 @@ Notebooks for class and problem sets along with data files for UCI N247
   - Class 1.2 Data Types notes
   - Problem Set: Python Basics 
 - Week 2
-  - Class 2.1 - Variable scope and using Colab
+  - Class 2.1 - Variable scope and debugging
   - Class 2.2 - Introduction to Numpy
   - Problem Set: Basics of Numpy
 - Week 3
   - Class 3.1 - Functions and flow control notes
+  - Problem Set: How random are you?
   - Problem Set: Finding bad data
 - Week 4
   - Problem Set: What is guessing?
